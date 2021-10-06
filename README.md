@@ -60,3 +60,5 @@
             }
 
 Gives you the index template, which has **browse** and **upload** button. After choosing needed files, click on upload and tables and rendered `.jpg` will be shown from the uploaded _**dicom**_ file/s.
+
+Note: Diagram is named "DicomImagesProject"
